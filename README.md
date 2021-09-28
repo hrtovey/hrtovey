@@ -1,6 +1,6 @@
 # Welcome! 👋👩🏻‍💻
 
-<img src="https://raw.githubusercontent.com/hrtovey/hrtovey/main/heathertovey.png" alt="Banner that reads Hello! I'm Heather Tovey.">
+<img src="/heathertovey.png" alt="Banner that reads Hello! I'm Heather Tovey.">
 
 I'm a Front-End Developer specializing in Shopify theme development. I work at iamota, a Shopify Plus design and development agency. And I create content for developers who want to get into Shopify theme development!
 
